@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...>
 
 - ![Alt](S1.pdf)
-- <img src="S1.pdf"  width="200" height="200"/>
+- <img src="S1.pdf" alt="some text"  width="200" height="200">
