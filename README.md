@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...>
 
-- ![Alt](S1.pdf)
-- <img src="S1.pdf" alt="some text"  width="200" height="200">
+- \begin{center} <br> \includegraphics[width=8in]{S1.pdf} <br> \end{center} 
