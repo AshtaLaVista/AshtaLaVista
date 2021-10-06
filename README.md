@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...>
 
-- \begin{center} <br> \includegraphics[width=8in]{S1.pdf} <br> \end{center} 
+- begin{center} <br> \includegraphics[width=8in]{S1.pdf} <br> \end{center} 
