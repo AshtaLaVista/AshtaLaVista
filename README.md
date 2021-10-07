@@ -1,5 +1,6 @@
 # Hi there 👋
-
+![alt text](https://github.com/AshtaLaVista/AshtaLaVista/blob/main/S1.jpg?raw=true width="200" height="200"/)> 
+<img src="imgs/https://github.com/AshtaLaVista/AshtaLaVista/blob/main/S1.jpg" width="200" height="200"/>
 <!--
 **AshtaLaVista/AshtaLaVista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...>
 
-- <img src="imgs/s1.jpg" title="Озерова Галина Павловна" width="200" height="200"/>
+- 
