@@ -1,6 +1,16 @@
 # Hi there 👋
-![alt text](https://github.com/AshtaLaVista/AshtaLaVista/blob/main/S1.jpg?raw=true width="200" height="200"/)> 
-<img src="imgs/https://github.com/AshtaLaVista/AshtaLaVista/blob/main/S1.jpg" width="200" height="200"/>
+
+
+
+<body>
+  <p>
+    <img src="imgs/S0.jpg" width="250" height="180">
+    <img src="imgs/S1.jpg" width="250" height="180">
+    <img src="imgs/S2.jpg" width="250" height="180">
+    
+  </p>
+ </body>
+
 <!--
 **AshtaLaVista/AshtaLaVista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
