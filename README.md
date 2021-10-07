@@ -4,7 +4,7 @@
 
 <body>
   <p>
-    <img src="imgs/S0.jpg" width="250" height="180">
+    <img src="imgs/S0.jpg" width="320" height="180">
     <img src="imgs/S1.jpg" width="250" height="180">
     <img src="imgs/S2.jpg" width="250" height="180">
     
