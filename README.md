@@ -1,7 +1,7 @@
 # Hi there 👋
 
 My name is Olga and I'm data analyst. 
-Despite I'm 44, I venture to wear new career way. From november 2020 every day increases my level of expertise in data analytics. 
+Despite I'm 44, I venture to wear new career way. From november 2020 every day increases my level of expertise in data analytics 💪 
 
 
 
