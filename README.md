@@ -2,7 +2,14 @@
 
 My name is Olga and I'm data analyst. 
 Despite I'm 44, I venture to wear new career way. From november 2020 every day increases my level of expertise in data analytics 💪 
-
+<body>
+  <p>
+    <img src="imgs/S0.jpg" width="320" height="180">
+    <img src="imgs/S1.jpg" width="250" height="180">
+    <img src="imgs/S2.jpg" width="250" height="180">
+    
+  </p>
+ </body>
 
 
 
