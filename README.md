@@ -8,7 +8,7 @@ I venture to wear new career way. From november 2020 every day increases my leve
     <img src="imgs/S1.jpg" width="250" height="180">
     <img src="imgs/S2.jpg" width="250" height="180">
     <img src="imgs/S3.jpg" width="250" height="180">
-    
+    <img src="imgs/S4 (pdf.io).jpg" width="250" height="180">
   </p>
  </body>
 
